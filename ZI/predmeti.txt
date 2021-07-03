@@ -1,0 +1,5 @@
+1005 Matematika 1
+1004 OE
+1001 Biologija
+1003 Fizika
+1021 Programiranje
